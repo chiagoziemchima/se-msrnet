@@ -13,15 +13,6 @@ This repository contains the PyTorch implementation of SE-MSRNet, a novel convol
 - Fully modular and built using **PyTorch**.
 
 ---
-
-## 🗂️ Project Structure
-├── ms_resnet.py # SE-MSRNet architecture definition
-├── train.py # Training script
-├── utils/
-│ └── data_loader.py # Data loading utility
-└── README.md # This file
-
-
 ---
 
 ## 🧠 Model Architecture
@@ -55,9 +46,18 @@ Other datasets used:
 ```bash
 pip install torch torchvision numpy
 
+---
+
 data/
 ├── WHU-RS19/
 │   ├── class_1/
 │   ├── class_2/
 │   └── ...
 
+---
+Citation:
+If you use this code, please cite our paper:
+
+Jiang, X., & Ukwuoma, C. C. (2025). Enhancing Remote Sensing Image Classification with SE-MSRNet: A Multi-Scale Residual Network Integrating Squeeze-and-Excitation Attention. [Visual Computer].
+
+Note: The code is provided for research purposes and will be fully accessible upon publication of the paper. For questions, contact chiagoziem.chima@zy.cdut.edu.cn.
