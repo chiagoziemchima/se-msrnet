@@ -1,7 +1,7 @@
 # se-msrnet
 This repository contains the PyTorch implementation of SE-MSRNet, a novel convolutional neural network (CNN) designed for high-accuracy remote sensing image classification, as presented in the paper "Enhancing Remote Sensing Image Classification with SE-MSRNet: A Multi-Scale Residual Network Integrating Squeeze-and-Excitation Attention
 
-> Submitted to *The Visual Computer* (Springer Journal)
+> Submitted to *Advances in Space Research*
 
 ---
 
@@ -58,6 +58,6 @@ data/
 Citation:
 If you use this code, please cite our paper:
 
-Jiang, X., & Ukwuoma, C. C. (2025). Enhancing Remote Sensing Image Classification with SE-MSRNet: A Multi-Scale Residual Network Integrating Squeeze-and-Excitation Attention. [Visual Computer].
+Jiang, X., & Ukwuoma, C. C. (2025). Enhancing Remote Sensing Image Classification with SE-MSRNet: A Multi-Scale Residual Network Integrating Squeeze-and-Excitation Attention. [Advances in Space Research].
 
 Note: The code is provided for research purposes and will be fully accessible upon publication of the paper. For questions, contact chiagoziem.chima@zy.cdut.edu.cn.
